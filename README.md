@@ -2,6 +2,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitBiradar1202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AmitBiradar1202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitBiradar1202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEq8iG1noL21g/profile-displayphoto-shrink_200_200/0/1704019493716?e=2147483647&v=beta&t=F_iPrNNbIL_r-CkuoVtOLOYRkY55rLEtEi201vvpmCw"  />
 
 ###
@@ -57,5 +65,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AmitBiradar1202/AmitBiradar1202/output/snake.svg" alt="Snake animation" />
 
 ###
